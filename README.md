@@ -2,24 +2,10 @@
 
 Sitio estático de EduPayments2 - Generado automáticamente con Astro.
 
-## 🌐 URL
+## 🌐 URLs
 
 - **Repositorio fuente:** https://github.com/1511170/edupayments2
-- **Sitio:** (configurar en Cloudflare Pages)
-
-## 📁 Contenido
-
-Este repositorio contiene solo los archivos estáticos del sitio:
-
-- `index.html` - Página principal
-- `favicon.ico` - Favicon
-- `favicon.svg` - Favicon SVG
-
-## 🔄 Actualización
-
-Este sitio se actualiza automáticamente cuando:
-1. Se hace push al repo fuente (`edupayments2`)
-2. Se ejecuta el script de deploy
+- **Sitio estático:** https://github.com/1511170/edupayments2-static
 
 ## 🛠️ Tecnologías
 
